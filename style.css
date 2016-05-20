@@ -1,0 +1,39 @@
+body {
+	background: RGB(109, 254, 48); 
+	text-align: center;
+}
+
+h1 {
+	color: red;
+	font-size: 43px;
+}
+
+a {
+	color: red; 
+	font-size: 29px;
+}
+
+h2 {
+	color: blue;
+	font-size: 35px;
+}
+
+h2#scam {
+	color: yellow;
+}
+
+p {
+	font-family: Comic Sans MS;
+}
+
+img {
+	display: block;
+	margin-top: 25px;
+	width: 250px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+#ryan {
+	width: 350px;
+}
